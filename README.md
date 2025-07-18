@@ -5,9 +5,6 @@ CarrotQuest is a simple arcade-style game I built with Pygame for my students in
 
 
 
-<div align="center">
-  <img src="gamecover.png" width="300" alt="RRE vs Time: Standard vs Randomized NMF">
-</div>
 
 ## Requirements
 
