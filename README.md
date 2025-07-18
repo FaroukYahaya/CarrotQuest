@@ -1,6 +1,6 @@
 # CarrotQuest
 
-CarrotQuest is a simple arcade-style game built with Pygame. You control a rabbit that moves left and right to catch falling carrots. Every carrot you catch increases your score. The game includes basic collision detection, sound effects, and animated sprites.
+CarrotQuest is a simple arcade-style game I built with Pygame for my students in my CS course on Introduction to Programming in Python. You control a rabbit that moves left and right to catch falling carrots. Every carrot you catch increases your score. The game includes basic collision detection, sound effects, and animated sprites.
 
 ## Requirements
 
